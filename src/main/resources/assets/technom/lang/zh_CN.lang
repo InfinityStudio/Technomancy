@@ -1,5 +1,6 @@
 #Creative Tab
 itemGroup.Technomancy=量子魔法
+
 #Item Names
 item.techno:essentiaCannon.name=要素加农
 item.Wand.electric.rod=激发能量
@@ -24,9 +25,10 @@ techno:pureSilver.name=超纯化银
 techno:pureLead.name=超纯化铅
 techno:pureNickel.name=超纯化镍
 item.techno:itemBoost.name=力量宝石
-item.techno.pure.name=纯化 
+item.techno.pure.name=纯化
 item.techno:manaBucket.name=浓缩魔力桶
 item.techno:ritualTome.name=仪式法典
+
 #Block Names
 tile.techno:cosmeticOpaque.name=量子化玻璃
 tile.techno:cosmeticPane.name=量子化玻璃板
@@ -60,16 +62,20 @@ tile.techno:manaExchanger.name=魔力换能器
 tile.techno:itemTransmitter.name=物品能量线圈
 tile.techno:basalt.name=玄武岩
 tile.techno:fusor.name=源质融合器
+
 #Fluid Names
 fluid.techno:manaFluid=浓缩魔力
+
 #Information
 info.techno:purity=纯度
 info.techno:shift=-按住Shift获取更多信息-
 info.techno:ctrl=-按住Ctrl显示内容物品-
 info.techno:a=-按住获取更多要素信息-
 info.techno:process=请放进熔炉里加工
+
 #Research Tab
 tc.research_category.TECHNOMANCY=量子魔法
+
 #Research
 tc.research_name.TECHNOBASICS=神秘量子科学
 tc.research_text.TECHNOBASICS=这是自动化魔法!
@@ -137,3 +143,5 @@ techno.lexicon_page.PROCESSORBO.2=化进而得到更多的矿物,但 是每个�
 techno.lexicon_name.MANAEXCHANGER=魔力换能器
 techno.lexicon_page.MANAEXCHANGER.1=魔力换能器能够将魔力浓缩 为液体,以便于用管道运输 和储存,它需要被安装在魔 力池下面并提供RF能量才能 工作.它拥有一个魔力池容 量的缓冲池用于储存魔力. 在默认状态下它会把魔力池 中的魔力进行浓缩,如果要 反向工作的话只需要用扳手 右击它.
 techno.lexicon_page.MANAEXCHANGER.2=浓缩魔力可以使用任意液体 传送装置进行传送.默认情 况下魔力换能器可以用红石 信号停止它的工作,但是你 也可以用于鲜花能源炉相同 的红石设置来设置它的红石 状态.
+
+
